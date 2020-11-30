@@ -2,6 +2,7 @@
 ### mandag d 30/11 
 - Collections overview
   - Øvelse: Talanalyse
+  - Øvelse: return List vs return Iterable (dogs)
   
 - HashMaps 
   - Øvelse: pak filen dogkennel.tar.gz ud og start IntelliJ op med koden
